@@ -1,3 +1,3 @@
-from .documentary_domain_service_imp import DocumentaryDomainServiceImp
+from .documentary_domain_service_imp import DocumentaryDomainServiceImpl
 
-__all__ = ["DocumentaryDomainServiceImp"]
+__all__ = ["DocumentaryDomainServiceImpl"]
